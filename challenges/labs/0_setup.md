@@ -38,3 +38,11 @@
 * [root@ip-172-31-17-209 ~]# egrep 'shanghai|beijing' /etc/group
  * shanghai:x:2901:chen
  * beijing:x:2902:zhou
+
+## MariaDB Repostory
+* [mariadb]
+* name = MariaDB
+* baseurl = http://yum.mariadb.org/10.1/rhel7-ppc64le
+* gpgkey=https://yum.mariadb.org/RPM-GPG-KEY-MariaDB
+* gpgcheck=1
+
