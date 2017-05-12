@@ -26,3 +26,15 @@
 * !rhui-REGION-rhel-server-releases/7Server/x86_64                   Red Hat Enterprise Linux Server 7 (RPMs)                                          14,282
 * !rhui-REGION-rhel-server-rh-common/7Server/x86_64                  Red Hat Enterprise Linux Server 7 RH Common (RPMs)                                   228
 * repolist: 14,516
+
+## List /etc/passwd: 
+
+ [root@ip-172-31-17-209 ~]# egrep 'zhou|chen' /etc/passwd
+  zhou:x:2800:2800::/home/zhou:/bin/bash
+  chen:x:2900:2900::/home/chen:/bin/bash
+
+## List /etc/group: 
+
+ [root@ip-172-31-17-209 ~]# egrep 'shanghai|beijing' /etc/group
+  shanghai:x:2901:chen
+  beijing:x:2902:zhou
