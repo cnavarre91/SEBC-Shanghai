@@ -1,2 +1,2 @@
 ## Cloud Provider:
-  *Amazon
+  * Amazon
