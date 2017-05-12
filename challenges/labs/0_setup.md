@@ -14,5 +14,6 @@
 ## File System Capacity:  
 
 * [ec2-user@ip-172-31-17-209 ~]$ df -h
-    * Filesystem      Size  Used Avail Use% Mounted on
-    * /dev/xvda2      120G  1.5G  119G   2% /
+
+     Filesystem      Size  Used Avail Use% Mounted on
+     /dev/xvda2      120G  1.5G  119G   2% /
