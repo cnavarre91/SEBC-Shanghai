@@ -8,4 +8,4 @@
   * 52.215.87.122 - ec2-52-215-87-122.eu-west-1.compute.amazonaws.com
 ## Linux Release:  
 * [ec2-user@ip-172-31-17-209 ~]$ cat /proc/version
-* Linux version 3.10.0-229.el7.x86_64 (mockbuild@x86-035.build.eng.bos.redhat.com) (gcc version 4.8.3 20140911 (Red Hat 4.8.3-7) (GCC) ) #1 * SMP Thu Jan 29 18:37:38 EST 2015
+Linux version 3.10.0-229.el7.x86_64 (mockbuild@x86-035.build.eng.bos.redhat.com) (gcc version 4.8.3 20140911 (Red Hat 4.8.3-7) (GCC) ) #1  SMP Thu Jan 29 18:37:38 EST 2015
