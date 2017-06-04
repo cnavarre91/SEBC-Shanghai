@@ -3,6 +3,9 @@
 ## Database version:
 * [root@ip-172-31-16-236 ~]# mysql -V
 * mysql  Ver 15.1 Distrib 5.5.52-MariaDB, for Linux (x86_64) using readline 5.1
+```
+You don't feel strange using a mysql command to return a MariaDB version number? ;-)
+```
 
 ## Databases:
       MariaDB [(none)]> show databases;
