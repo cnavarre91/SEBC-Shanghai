@@ -5,3 +5,5 @@
 ##Connect Cloudera Manager to its Database command:
 
  * sudo /usr/share/cmf/schema/scm_prepare_database.sh mysql -h localhost -uroot -pcloudera --scm-host localhost scm root cloudera
+ 
+ [[ I would like to have seen the result of this command as well ]]
